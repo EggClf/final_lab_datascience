@@ -30,7 +30,7 @@
   <p align="center">
     Progress from data collection to building a clustering model 
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the slides »</strong></a>
+    <a href="https://github.com/EggClf/final_lab_datascience/tree/main/slide"><strong>Explore the slides »</strong></a>
     <br />
   </p>
 </div>
