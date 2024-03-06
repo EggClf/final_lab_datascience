@@ -43,9 +43,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Collect data</a></li>
-      </ul>
     </li>
   </ol>
 </details>
