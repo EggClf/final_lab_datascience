@@ -30,7 +30,7 @@
   <p align="center">
     Progress from data collection to building a clustering model 
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the slides »</strong></a>
     <br />
   </p>
 </div>
